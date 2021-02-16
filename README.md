@@ -23,5 +23,5 @@ All donations are appreciated
  
 XMR : 8AWRF8X4vDu6bamdd91PdbXfRugsJsnrk6pSvYsEdKBJAoFdMEgySPMeGEpd81vfEiEa5yC2n3ULTFFEDYjZ8ju8LecRuE1
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Discord for .exe version : 
+https://discord.gg/Hu2x2cMGfr
