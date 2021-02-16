@@ -1,5 +1,5 @@
 # OpenUsainBot
-
+Some dudes are selling this shit 300$/month. 
 I just disassembled his .exe software. To be used with care, the dev behind doesn't know what it does. 
 
 ## Installation
