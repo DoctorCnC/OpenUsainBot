@@ -4,12 +4,16 @@ I just disassembled his .exe software. To be used with care, the dev behind does
 
 ## Installation
 
+Using .net framework 5.0
+### Packages :
+Binance.Net 6.8.2
+
 ```bash
-dotnet run 
+dotnet build
 ```
 
 ## Usage
-
+dotnet run 
 ```json
 Update the config file in .json with your API keys binance
 ```
