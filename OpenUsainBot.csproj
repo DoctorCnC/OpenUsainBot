@@ -6,6 +6,5 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Binance.Net" Version="6.8.2" />
-    <PackageReference Include="ConsoleTables" Version="2.4.2" />
   </ItemGroup>
 </Project>
