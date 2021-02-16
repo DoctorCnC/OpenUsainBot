@@ -26,4 +26,4 @@ XMR : 8AWRF8X4vDu6bamdd91PdbXfRugsJsnrk6pSvYsEdKBJAoFdMEgySPMeGEpd81vfEiEa5yC2n3
 ## Discord for .exe version : 
 https://discord.gg/Hu2x2cMGfr
 
-![Alt text](open.png")
+![Alt text]("open.png")
